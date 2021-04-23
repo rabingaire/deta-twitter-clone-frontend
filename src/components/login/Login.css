@@ -1,0 +1,17 @@
+.login .error {
+  padding: 10px;
+  color: red;
+}
+
+.login input {
+  border: 1px solid #000;
+  border-radius: 3px;
+  padding: 6px;
+  margin: 5px;
+}
+
+.login a {
+  padding: 10px;
+  display: block;
+  color: #000;
+}

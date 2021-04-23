@@ -1,0 +1,17 @@
+.signup .error {
+  padding: 10px;
+  color: red;
+}
+
+.signup input {
+  border: 1px solid #000;
+  border-radius: 3px;
+  padding: 6px;
+  margin: 5px;
+}
+
+.signup a {
+  padding: 10px;
+  display: block;
+  color: #000;
+}

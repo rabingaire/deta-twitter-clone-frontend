@@ -1,0 +1,27 @@
+.profile a {
+  color: #000;
+}
+
+.profile-description {
+  padding: 10px;
+}
+
+.profile-description span {
+  cursor: pointer;
+}
+
+.profile-status {
+  display: flex;
+  justify-content: center;
+}
+
+.profile-status div {
+  padding: 10px;
+}
+
+.profile input {
+  border: 1px solid #000;
+  border-radius: 3px;
+  padding: 6px;
+  margin: 5px;
+}

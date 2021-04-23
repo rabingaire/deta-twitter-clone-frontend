@@ -1,0 +1,29 @@
+.tweet-create textarea {
+  width: 300px;
+  height: 60px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.home .loading {
+  padding: 10px;
+  display: block;
+}
+
+.home input {
+  border: 1px solid #000;
+  border-radius: 3px;
+  padding: 6px;
+  margin: 5px;
+}
+
+.home a {
+  color: #000;
+}
+
+.logout {
+  text-decoration: underline;
+  padding: 0px 10px;
+  cursor: pointer;
+}
